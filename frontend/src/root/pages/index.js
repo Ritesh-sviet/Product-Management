@@ -1,0 +1,5 @@
+export {default as Home} from "./Home"
+export {default as ProductManagement} from "./ProductManagement"
+export {default as Product} from "./Product"
+export {default as Supplier} from "./Supplier"
+export {default as Staff} from "./Staff"
